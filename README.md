@@ -17,8 +17,6 @@ This widget will add a horizontal scroll bar on top of the page. It allows us to
 ![image](https://user-images.githubusercontent.com/126237001/223403988-4695a978-4931-4d6e-9ca1-705a20da165f.png)
 
 
-![Alt Text](https://user-images.githubusercontent.com/126237001/223406246-70e2b71b-5f70-470e-80f7-42eeb3abbdeb.gif)
-
 
  
  
