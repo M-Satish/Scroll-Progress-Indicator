@@ -6,7 +6,7 @@ This widget will add a horizontal scroll bar on top of the page. It allows us to
 ## Dependencies:
 * Studio pro version – 9.12.4
 ## Configuration:
-* Place the widget on the page where the progress bar needs to be shown.
+* Place the widget on the scrollable page where the progress bar needs to be shown.
 ## Known bugs:
 * None
 ## Screenshots:
