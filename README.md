@@ -2,7 +2,10 @@
 
 
 ## Objective:
-This widget will add a horizontal scroll bar on top of the page. It allows us to illustrate how far we've scrolled and how much there left to scroll on the page. It also shows how much we've been scrolling down as a percentage.
+
+A scroll progress indicator is a visual representation of how far a user has scrolled through a web page or document. It can be used to improve user experience by giving users a sense of how much content is left to read or how far they are from reaching the end of a page
+It provides a clear indication of how much content is left to read, which can be especially helpful on long pages or articles. It can be a useful tool for improving user experience and keeping users engaged with the content of a website.
+
 ## Dependencies:
 * Studio pro version – 9.12.4
 ## Configuration:
